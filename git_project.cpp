@@ -8,6 +8,7 @@ int main()
     std::cout << "Master\n";
 	
 	std::cout << "on develop branch first commit\n";
+	std::cout << "on develop branch first commit 2\n";
 }
 
 
