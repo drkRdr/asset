@@ -15,6 +15,7 @@ int main()
 	std::cout << "on develop branch first commit 6\n";
 	
 	std::cout << "on feature branch first commit 1\n";
+	std::cout << "on feature branch first commit 2\n";
 }
 
 
